@@ -1,0 +1,14 @@
+C:\Users\MCA-20\source\repos\CircleWorld\bin\Debug\net8.0\CircleWorld.exe
+C:\Users\MCA-20\source\repos\CircleWorld\bin\Debug\net8.0\CircleWorld.deps.json
+C:\Users\MCA-20\source\repos\CircleWorld\bin\Debug\net8.0\CircleWorld.runtimeconfig.json
+C:\Users\MCA-20\source\repos\CircleWorld\bin\Debug\net8.0\CircleWorld.dll
+C:\Users\MCA-20\source\repos\CircleWorld\bin\Debug\net8.0\CircleWorld.pdb
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\CircleWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\CircleWorld.AssemblyInfoInputs.cache
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\CircleWorld.AssemblyInfo.cs
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\CircleWorld.csproj.CoreCompileInputs.cache
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\CircleWorld.dll
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\refint\CircleWorld.dll
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\CircleWorld.pdb
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\CircleWorld.genruntimeconfig.cache
+C:\Users\MCA-20\source\repos\CircleWorld\obj\Debug\net8.0\ref\CircleWorld.dll
